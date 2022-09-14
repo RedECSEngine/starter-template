@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "geometry",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:RedECSEngine/Geometry.git",
+      "state" : {
+        "revision" : "7c9ba07e4ee2e09ab8454870c8ede2ad96e544f6",
+        "version" : "0.0.4"
+      }
+    },
+    {
+      "identity" : "javascriptkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftwasm/JavaScriptKit",
+      "state" : {
+        "revision" : "a129f62171bf3610633313c2db6acdca41cdb195",
+        "version" : "0.16.0"
+      }
+    },
+    {
+      "identity" : "redecs",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RedECSEngine/RedECS.git",
+      "state" : {
+        "revision" : "1fc289b193d5ec3b7f38127f8826932fc62c0a0c",
+        "version" : "0.0.5"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:apple/swift-collections.git",
+      "state" : {
+        "revision" : "f504716c27d2e5d4144fa4794b12129301d17729",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics.git",
+      "state" : {
+        "revision" : "6583ac70c326c3ee080c1d42d9ca3361dca816cd",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
